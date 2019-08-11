@@ -1,0 +1,4 @@
+INSERT INTO students (sname, address, email)
+VALUES ("Muhammad Abraar", "abc xyz", "abrar@gmail.com");
+
+SELECT * FROM students
